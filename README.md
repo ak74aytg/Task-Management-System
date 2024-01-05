@@ -20,6 +20,7 @@ FRONTEND
 React: A JavaScript library for building user interfaces.
 Chakra UI: Provides accessible and customizable UI components.
 Axios: Used for making HTTP requests to the backend API.
+
 BACKEND
 
 Spring Boot: A powerful framework for building Java-based applications.
@@ -36,6 +37,7 @@ FRONTEND
 Navigate to the task management system-frontend repository.
 Install dependencies using npm install.
 Start the development server with npm start.
+
 BACKEND
 
 Open the backend project in your preferred IDE (Eclipse, IntelliJ, etc.).
